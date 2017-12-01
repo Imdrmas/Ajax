@@ -1,0 +1,36 @@
+body{
+  background-color: lightblue;
+}
+h1{
+font-size: 50px;
+color: #790000;
+font-weight: bold;
+font-family: 'Anton', sans-serif;
+text-shadow: 1px 1px 5px blue;
+}
+.form-cont{
+  margin-top: 40px;
+  background-color: lightyellow;
+  padding: 40px 0;
+  border-radius: 30px;
+}
+.form-cont1{
+  margin-top: 40px;
+  background-color: lightyellow;
+  padding: 40px 20px 40px 20px;
+  border-radius: 30px;
+  width: 588px;
+}
+.table-striped{
+  padding: 20px;
+}
+th{
+  background: blue;
+  color: #FFF;
+}
+.btn-delete{
+color: #ff8a8a;
+}
+.btn-edit{
+color: #09d6bd;
+}
